@@ -41,17 +41,16 @@ O papilomavírus humano, conhecido como HPV, é um vírus que se instala na pele
 
 
 ### Vacinação contra o HPV:
-A vacina HPV quadrivalente confere proteção contra HPV 6, 11, 16 e 18, ou seja, abrange os dois principais tipos responsáveis pelo câncer de colo do útero. Com isso, a fim reforçar as atuais ações de prevenção do câncer de colo do útero, o Ministério da Saúde, com as Secretarias Estaduais e Municipais de Saúde, dá continuidade à estratégia de vacinação contra o HPV. 
+A vacina HPV quadrivalente proporciona proteção contra HPV 6, 11, 16 e 18, então, abrange os dois principais tipos responsáveis pelo câncer de colo do útero. Com isso, a fim reforçar as atuais ações de prevenção do câncer de colo do útero, o Ministério da Saúde, com as Secretarias Estaduais e Municipais de Saúde, dá continuidade à estratégia de vacinação contra o HPV. 
 
-Essa vacina foi incluída no Calendário Nacional de Vacinação do SUS em março de 2014, tendo como população-alvo as meninas de 11 a 13 anos de idade. Em 2015, a oferta da vacina foi ampliada para as meninas na faixa etária de 9 a 13 anos de idade.
+Essa vacina foi incluída no Calendário Nacional de Vacinação do SUS em março de 2014, tendo como população-alvo as meninas de 11 a 13 anos de idade. No entanto, em 2015, a oferta da vacina foi ampliada para as meninas na faixa etária de 9 a 13 anos de idade.
 
 O Ministério da Saúde adotava o esquema vacinal estendido, composto por três doses (0, 6 e 60 meses), entretanto, para meninas de 9 a 13 anos, o esquema vacinal mudou para duas doses (0 e 6 meses). A mudança se deu com base em estudos que comprovaram a efetividade da imunização em duas doses em meninas nessa faixa etária. Para as demais faixas etárias devem ser aplicadas as três doses. A vacinação poderá ocorrer nas Unidades de Saúde do SUS e em parceria com as Secretarias de Saúde e Educação.
 
-De acordo com o registro na Anvisa, a vacina quadrivalente é aprovada para mulheres entre 9 a 45 anos e homens entre 9 e 26 anos, e a vacina bivalente para mulheres entre 10 e 25 anos. No momento, as clínicas não estão autorizadas a aplicar as vacinas em faixas etárias diferentes às estabelecidas pela Anvisa.
-
-Ambas as vacinas possuem maior indicação para meninas e meninos que ainda não iniciaram a vida sexual, uma vez que apresentam maior eficácia na proteção de indivíduos não expostos aos tipos virais presentes nas vacinas.
+É importante destacar que a vacina também é aplicada em indivíduos do sexo masculino e que essa vacina possui maior indicação para essa faixa etária (9-13 anos), pois considera que os individuos ainda não iniciaram a vida sexual, uma vez que a vacina apresenta maior eficácia na proteção de indivíduos não expostos aos tipos virais presentes nas vacinas.
 
 A vacina para o sexo masculino é importante para oferecer proteção contra as verrugas genitais, associadas à infecção pelos tipos 6 e 11 do HPV, que, além dos prejuízos estéticos e do desconforto, podem aumentar o risco de transmissão de HIV. Além disso, uma vez vacinado, o homem terá menos chances de transmitir o vírus para a mulher, ampliando a eficácia geral da vacina. No entanto, a vacina ainda é pouco difundida entre os homens.
+
 
 ![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif) 
 

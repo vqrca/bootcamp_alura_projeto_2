@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/capa_hpv.png" />
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/cover.png" />
 </p>
 
 # **INTRODUÇÃO**

@@ -48,8 +48,9 @@ O Ministério da Saúde adotava o esquema vacinal estendido, composto por três 
 
 De acordo com o registro na Anvisa, a vacina quadrivalente é aprovada para mulheres entre 9 a 45 anos e homens entre 9 e 26 anos, e a vacina bivalente para mulheres entre 10 e 25 anos. No momento, as clínicas não estão autorizadas a aplicar as vacinas em faixas etárias diferentes às estabelecidas pela Anvisa.
 
+Ambas as vacinas possuem maior indicação para meninas e meninos que ainda não iniciaram a vida sexual, uma vez que apresentam maior eficácia na proteção de indivíduos não expostos aos tipos virais presentes nas vacinas.
+
 A vacina para o sexo masculino é importante para oferecer proteção contra as verrugas genitais, associadas à infecção pelos tipos 6 e 11 do HPV, que, além dos prejuízos estéticos e do desconforto, podem aumentar o risco de transmissão de HIV. Além disso, uma vez vacinado, o homem terá menos chances de transmitir o vírus para a mulher, ampliando a eficácia geral da vacina. No entanto, a vacina ainda é pouco difundida entre os homens.
 
 ![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif)
 
-Ambas as vacinas possuem maior indicação para meninas e meninos que ainda não iniciaram a vida sexual, uma vez que apresentam maior eficácia na proteção de indivíduos não expostos aos tipos virais presentes nas vacinas.

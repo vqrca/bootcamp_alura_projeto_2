@@ -178,7 +178,7 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 
 # AGRADECIMENTOS
 
-Gostaria de deixar meu agradecimento aos instrutores do módulo 1 Thiago Gonçalves e Guilherme Silveira.
+Gostaria de deixar meu agradecimento aos instrutores do módulo 2: Thiago Gonçalves e Guilherme Silveira.
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias. 
 
 ![Alt Text](https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif)

@@ -34,10 +34,11 @@ O papilomavírus humano, conhecido como HPV, é um vírus que se instala na pele
 - Em 2019, ocorreram 6.596 óbitos por esta neoplasia, representando uma taxa ajustada de mortalidade por este câncer de 5.33/100 mil mulheres.
 
 ### Transmissão do HPV:
-- A transmissão do vírus se dá por contato direto com a pele ou mucosa infectada.
-- A principal forma é pela via sexual, que inclui contato oral-genital, genital-genital ou mesmo manual-genital. Assim sendo, o contágio com o HPV pode ocorrer mesmo na ausência de penetração vaginal ou anal.
-- Também pode haver transmissão durante o parto.
+- A transmissão do vírus ocorre por contato direto com a pele ou mucosa infectada.
+- A principal forma de transmissão é pela via sexual, que inclui contato oral-genital, genital-genital ou mesmo manual-genital. Portanto, o contágio com o HPV pode ocorrer mesmo na ausência de penetração vaginal ou anal.
+- Também pode ocorrer transmissão durante o parto.
 - Não está comprovada a possibilidade de contaminação por meio de objetos, do uso de vaso sanitário e piscina ou pelo compartilhamento de toalhas e roupas íntimas.
+
 
 ### Vacinação contra o HPV:
 A vacina HPV quadrivalente confere proteção contra HPV 6, 11, 16 e 18, ou seja, abrange os dois principais tipos responsáveis pelo câncer de colo do útero. Com isso, a fim reforçar as atuais ações de prevenção do câncer de colo do útero, o Ministério da Saúde, com as Secretarias Estaduais e Municipais de Saúde, dá continuidade à estratégia de vacinação contra o HPV. 
@@ -52,5 +53,5 @@ Ambas as vacinas possuem maior indicação para meninas e meninos que ainda não
 
 A vacina para o sexo masculino é importante para oferecer proteção contra as verrugas genitais, associadas à infecção pelos tipos 6 e 11 do HPV, que, além dos prejuízos estéticos e do desconforto, podem aumentar o risco de transmissão de HIV. Além disso, uma vez vacinado, o homem terá menos chances de transmitir o vírus para a mulher, ampliando a eficácia geral da vacina. No entanto, a vacina ainda é pouco difundida entre os homens.
 
-![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif)
+![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif) 
 

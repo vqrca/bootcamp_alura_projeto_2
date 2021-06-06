@@ -21,8 +21,7 @@ Tabela de conteúdo
    * [Referências](#ref)
    * [Documentação](#doc)
    * [Agradecimentos](#agra)
-   * [Onde encontrar meu trabalho?](#job)
-<!--te-->
+   <!--te-->
 
 <a name="intro"></a>
 # **Introdução**
@@ -210,13 +209,5 @@ Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões 
 
 ![Alt Text](https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif)
 
- <a name="job"></a>
-## Onde encontrar meu trabalho?
- 
-[LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
- 
-[ResearchGate](https://www.researchgate.net/profile/Valquiria-Alencar)
- 
-[Currículo lattes](http://lattes.cnpq.br/7742338443535710)
 
 

@@ -165,3 +165,12 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
  
 [World Health Organization -  International Agency for Research on Cancer](https://www.iarc.who.int/)
 
+
+# Documentação 
+
+- [Matplotlib](https://matplotlib.org/)
+ 
+- [Pandas](https://pandas.pydata.org/)
+ 
+- [Seaborn](https://seaborn.pydata.org/)
+

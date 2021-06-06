@@ -166,7 +166,7 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 [World Health Organization -  International Agency for Research on Cancer](https://www.iarc.who.int/)
 
 
-# Documentação 
+# DOCUMENTAÇÃO
 
 - [Matplotlib](https://matplotlib.org/)
  

@@ -1,5 +1,5 @@
 [![Badge](https://img.shields.io/badge/Author-Valquíria_Alencar-%237159c1?style=flat-square&logo=ghost)](https://github.com/vqrca/)
-[![Gmail Badge](https://img.shields.io/badge/-valquiria.c.alencar@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiria.c.alencar@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-valquiria.c.alencar@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiria.c.alencar@gmail.com)](mailto:valquiria.c.alencar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Valquíria_Alencar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/) 
 
 <p align="center">
@@ -113,7 +113,7 @@ Aplicando os seguintes filtros:
 O arquivo *.csv* desse dataset pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/cobertura_vacinas_1994-2021_por_imuno.csv) 
  
 ### HPV - Doses aplicadas: Imunobiológicos: HPV Quadrivalente - Feminino/Masculino
-Os datasets sobre HPV estavam disponibizados apenas na opção [Doses aplicadas](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/dpnibr.def)
+Os datasets sobre HPV estavam disponibilizados apenas na opção [Doses aplicadas](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/dpnibr.def)
 
 por ano:
 - Linha: Unidade da Federação

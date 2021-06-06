@@ -79,6 +79,7 @@ Aplicando os seguintes filtros:
 - Coluna: Unidade da Federação
 - Conteúdo: Coberturas Vacinais
 - Período disponível: 1994 - 2019
+
 O arquivo *.csv* desse dataset pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/cobertura_vacinas_1994-2021_por_ano.csv)
 
 ### Coberturas Vacinais por Imuno segundo Unidade da Federação
@@ -87,6 +88,7 @@ Aplicando os seguintes filtros:
 - Coluna: Imuno
 - Conteúdo: Coberturas Vacinais
 - Período disponível: 1994 - 2019
+
 O arquivo *.csv* desse dataset pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/cobertura_vacinas_1994-2021_por_imuno.csv) 
  
 ### HPV - Doses aplicadas: Imunobiológicos: HPV Quadrivalente - Feminino/Masculino

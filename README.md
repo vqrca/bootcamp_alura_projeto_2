@@ -54,3 +54,114 @@ A vacina para o sexo masculino é importante para oferecer proteção contra as 
 
 ![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif) 
 
+# OBJETIVOS
+
+O projeto aqui apresentado teve por objetivo analisar a cobertura da vacinação nas Unidades da Federação por ano, no período disponibilizado pelo DATASUS (1994-2019) e verificar a cobertura dos imunos aplicados em cada uma das Unidades da Federação.
+Além disso, como a vacinação contra HPV não está incluída nos dados de cobertura vacinal, outros datasets foram obtidos, como os seguintes objetivos:
+
+- Verificar se houve aumento na aplicação de doses após o período que a vacina foi incluída no calendário de vacinação;
+- Comparar a aplicação de doses nos sexos feminino e masculino e verificar se houve aumento de adesão no sexo masculino ao longo dos anos;
+- Analisar o número de doses aplicadas por faixa etária; 
+- Calcular a cobertura vacinal para o último ano disponível e verificar como essa cobertura está distribuída nas Unidades da Federação.
+
+![Alt Text](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
+
+# MÉTODOS
+
+## Coleta dos dados:
+
+Os dados utilizados neste projeto foram obtidos do [Tabnet - DATSUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11637), um banco de dados que disponibiliza dados relacionados à saúde. Entre os dados disponibilizados, podemos encontrar  Imunizações - desde 1994, na opção Assistência à saúde. Em imunizações há dados sobre cobertura vacinal, número de doses aplicadas e taxas de abandono.
+Neste projeto os seguintes datasets foram obtidos:
+
+### Coberturas Vacinais por Ano segundo Unidade da Federação
+Aplicando os seguintes filtros:
+- Linha: Ano
+- Coluna: Unidade da Federação
+- Conteúdo: Coberturas Vacinais
+- Período disponível: 1994 - 2019
+O arquivo *.csv* desse dataset pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/cobertura_vacinas_1994-2021_por_ano.csv)
+
+### Coberturas Vacinais por Imuno segundo Unidade da Federação
+Aplicando os seguintes filtros:
+- Linha: Unidade da Federação
+- Coluna: Imuno
+- Conteúdo: Coberturas Vacinais
+- Período disponível: 1994 - 2019
+O arquivo *.csv* desse dataset pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/cobertura_vacinas_1994-2021_por_imuno.csv) 
+ 
+### HPV - Doses aplicadas: Imunobiológicos: HPV Quadrivalente - Feminino/Masculino
+Os datasets sobre HPV estavam disponibizados apenas na opção [Doses aplicadas](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/dpnibr.def)
+
+por ano:
+- Linha: Unidade da Federação
+- Coluna: Ano
+- Conteúdo: Doses aplicadas 
+- Período disponível:  2009-20219 (feminino), 2013-2019 (masculino)
+
+Os arquivos *.csv* desse datasets podem ser encontrados aqui:
+
+[Femino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_ano_feminino.csv)
+
+[Masculino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_ano_masculino.csv)
+
+por faixa etária:
+- Linha: Unidade da Federação
+- Coluna: Faixa etária 
+- Conteúdo: Doses aplicadas 
+- Período disponível:  2009-20219 (feminino), 2013-2019 (masculino)
+
+Os arquivos *.csv* desse datasets podem ser encontrados aqui:
+
+[Femino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_faixa_etaria_feminino.csv)
+
+[Masculino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_faixa_etaria_feminino.csv) 
+
+## Bibliotecas utilizadas 
+
+- Pandas: para realizar a manipulação dos datasets
+
+- Matplotlib: para plotar os gráficos
+
+- Seaborn: para plotar os gráficos
+
+O notebook *.ipynb* foi construído no google colab usando Python 3.7.10. 
+
+
+# CONCLUSÕES
+
+....
+
+# CONSIDERAÇÕES FINAIS
+
+...
+
+# REFERÊNCIAS
+
+[ Campanha - Programa Nacional de Imunizações](https://portalarquivos.saude.gov.br/campanhas/pni/o-que-e.html)
+
+[Cobertura da Vacina Papilomavírus Humano (HPV) no Brasil: Heterogeneidade Espacial e entre Coortes Etárias](https://www.scielo.br/j/rbepid/a/TStbZmwdZTG3rmZZFsqvNFx/?lang=pt)
+
+[Crescimento da Adesão de Público Masculino à Vacina Contra HPV](https://www.fleury.com.br/noticias/cresce-adesao-de-publico-masculino-a-vacina-contra-hpv)
+
+[Desigualdades Sociais e Cobertura Vacinal: uso de inquéritos domiciliares](https://www.scielo.br/j/rbepid/a/7LVm96t5JssG46Bw5sRD74Q/?lang=pt&format=pdf)
+
+[Fiocruz - Movimento Antivacina e Suas Ameaças](https://portal.fiocruz.br/video/movimento-antivacina-e-suas-ameacas-sala-de-convidados)
+
+[Fiocruz - Com fake news, discurso antivacina se espalha nas redes](https://portal.fiocruz.br/noticia/com-fake-news-discurso-antivacina-se-espalha-nas-redes)
+
+[Informe Técnico Sobre a Vacina Papilomavírus Humano (HPV) na Atenção Básica](https://portalarquivos2.saude.gov.br/images/pdf/2015/junho/26/Informe-T--cnico-Introdu----o-vacina-HPV-18-2-2014.pdf) 
+
+[Instituto Nacional De Câncer - Atlas da Mortalidade](https://mortalidade.inca.gov.br/MortalidadeWeb/) 
+
+[Instituto Nacional do Câncer - Controle do Câncer de Colo do Útero](https://www.inca.gov.br/controle-do-cancer-do-colo-do-utero/conceito-e-magnitude)
+
+[Instituto Nacional do Câncer - Para que Servem as Vacinas Contra o HPV?](https://www.inca.gov.br/perguntas-frequentes/para-que-servem-vacinas-contra-o-hpv)
+
+[PNI- Programa Nacional de Imunizações, Boletim Informativo: Vacinação contra HPV](https://portalarquivos2.saude.gov.br/images/pdf/2017/julho/28/Boletim-informativo.pdf)
+
+[Tabnet - DATASUS, Cobertura Vacinal](http://tabnet.datasus.gov.br/tabdata/livroidb/Com2007/Com_F13.pdf)
+
+[Tabnet - DATASUS,  Imunizações: Cobertura -  Notas Técnicas](http://tabnet.datasus.gov.br/cgi/pni/%5Ccpnidescr.htm)
+ 
+[World Health Organization -  International Agency for Research on Cancer](https://www.iarc.who.int/)
+

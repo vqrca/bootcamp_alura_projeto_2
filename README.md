@@ -10,7 +10,7 @@
 	🚀 Em construção...
 </h4>
 
-Tabela de conteúdos
+Tabela de conteúdo
 =================
 <!--ts-->
    * [INTRODUÇÃO](#intro)
@@ -25,7 +25,7 @@ Tabela de conteúdos
 <!--te-->
 
 <a name="intro"></a>
-# **INTRODUÇÃO**
+# **Introdução**
 
 Neste projeto estou aplicando os conhecimentos obtidos  nos módulos 1 e 2 do Bootcamp de Data Science Aplicada da Alura, analisando os dados do [Programa Nacional de Imunizações](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def). As análises realizadas aqui envolvem a cobertura vacinal das vacinas incluídas nos calendários de vacinação do SUS (Sistema Único de Saúde). Além disso, foi feita uma análise mais profunda em relação à vacinação contra o HPV (*Human papillomavirus* - Papilomavírus Humano).
 
@@ -77,7 +77,7 @@ A vacina para o sexo masculino é importante para oferecer proteção contra as 
 ![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif) 
 
 <a name="obj"></a>
-# OBJETIVOS
+# Objetivos
 
 O projeto aqui apresentado teve por objetivo analisar a cobertura da vacinação nas Unidades da Federação por ano, no período disponibilizado pelo DATASUS (1994-2019) e verificar a cobertura dos imunos aplicados em cada uma das Unidades da Federação.
 Além disso, como a vacinação contra HPV não está incluída nos dados de cobertura vacinal, outros datasets foram obtidos, como os seguintes objetivos:
@@ -90,7 +90,7 @@ Além disso, como a vacinação contra HPV não está incluída nos dados de cob
 ![Alt Text](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
 
 <a name="met"></a>
-# MÉTODOS
+# Métodos
 
 ## Coleta dos dados:
 
@@ -153,17 +153,17 @@ Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 O notebook *.ipynb* foi construído no google colab usando Python 3.7.10. 
 
 <a name="conclusoes"></a>
-# CONCLUSÕES
+# Conclusões
 
 ....
 
 <a name="final"></a>
-# CONSIDERAÇÕES FINAIS
+# Considerações finais
 
 ...
 
 <a name="ref"></a>
-# REFERÊNCIAS
+# Referências
 
 [ Campanha - Programa Nacional de Imunizações](https://portalarquivos.saude.gov.br/campanhas/pni/o-que-e.html)
 
@@ -194,7 +194,7 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 [World Health Organization -  International Agency for Research on Cancer](https://www.iarc.who.int/)
 
 <a name="doc"></a>
-# DOCUMENTAÇÃO
+# Documentação
 
 - [Matplotlib](https://matplotlib.org/)
  
@@ -203,7 +203,7 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 - [Seaborn](https://seaborn.pydata.org/)
 
 <a name="agra"></a>
-# AGRADECIMENTOS
+# Agradecimentos
 
 Gostaria de deixar meu agradecimento aos instrutores do módulo 2: Thiago Gonçalves e Guilherme Silveira.
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias. 
@@ -211,7 +211,7 @@ Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões 
 ![Alt Text](https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif)
 
  <a name="job"></a>
-## ONDE ENCONTRAR MEU TRABALHO?
+## Onde encontrar meu trabalho?
  
 [LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
  

@@ -1,10 +1,12 @@
+[![Badge](https://img.shields.io/badge/Author-Valquíria_Alencar-%237159c1?style=flat-square&logo=ghost)](https://github.com/vqrca/)
+
 <p align="center">
   <img src="https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/cover_hpv.png" />
 </p>
 
 # **INTRODUÇÃO**
 
-Neste projeto estou aplicando os conhecimentos obtidos  nos módulos 1 e 2 do Bootcamp de Data Science Aplicada da Alura, analisando os dados do [Programa Nacional de Imunizações](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def). As análises realizadas aqui envolvem a cobertura vacinal das vacinas incluídas nos calendários de vacinação do SUS (Sistema Único de Saúde). Além disso, foi feita uma análise mais profunda em relação à vacinação contra o HPV (*Human papillomavirus* - Papilomavírus Humano). 
+Neste projeto estou aplicando os conhecimentos obtidos  nos módulos 1 e 2 do Bootcamp de Data Science Aplicada da Alura, analisando os dados do [Programa Nacional de Imunizações](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def). As análises realizadas aqui envolvem a cobertura vacinal das vacinas incluídas nos calendários de vacinação do SUS (Sistema Único de Saúde). Além disso, foi feita uma análise mais profunda em relação à vacinação contra o HPV (*Human papillomavirus* - Papilomavírus Humano).
 
 O Notebook com a análise completa e código pode ser encontrado aqui. 
 

@@ -102,7 +102,7 @@ por ano:
 
 Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 
-[Femino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_ano_feminino.csv)
+[Feminino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_ano_feminino.csv)
 
 [Masculino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_ano_masculino.csv)
 
@@ -114,7 +114,7 @@ por faixa etária:
 
 Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 
-[Femino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_faixa_etaria_feminino.csv)
+[Feminino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_faixa_etaria_feminino.csv)
 
 [Masculino](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/HPV_doses_faixa_etaria_feminino.csv) 
 

@@ -174,3 +174,19 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
  
 - [Seaborn](https://seaborn.pydata.org/)
 
+# AGRADECIMENTOS
+
+Gostaria de deixar meu agradecimento aos instrutores do módulo 1 Thiago Gonçalves e Guilherme Silveira.
+
+![Alt Text](https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif)
+
+ 
+## ONDE ENCONTRAR MEU TRABALHO?
+ 
+[LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-alencar-786a8911b/)
+ 
+[ResearchGate](https://www.researchgate.net/profile/Valquiria-Alencar)
+ 
+[Currículo lattes](http://lattes.cnpq.br/7742338443535710)
+
+

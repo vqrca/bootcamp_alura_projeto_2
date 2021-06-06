@@ -13,15 +13,15 @@
 Tabela de conteúdo
 =================
 <!--ts-->
-   * [INTRODUÇÃO](#intro)
-   * [OBJETIVOS](#obj)
-   * [MÉTODOS](#met)
-   * [CONCLUSÕES](#conclusoes)
-   * [CONSIDERAÇÕES FINAIS](#final)
-   * [REFERÊNCIAS](#ref)
-   * [DOCUMENTAÇÃO](#doc)
-   * [AGRADECIMENTOS](#agra)
-   * [ONDE ENCONTRAR MEU TRABALHO?](#job)
+   * [Introdução](#intro)
+   * [Objetivos](#obj)
+   * [Métodos](#met)
+   * [Conclusões](#conclusoes)
+   * [Considerações finais](#final)
+   * [Referências](#ref)
+   * [Documentação](#doc)
+   * [Agradecimentos](#agra)
+   * [Onde encontrar meu trabalho?](#job)
 <!--te-->
 
 <a name="intro"></a>

@@ -32,7 +32,7 @@ O Notebook com a análise completa e código pode ser encontrado aqui.
 
 Um PDF sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrado aqui.
 
-![Alt Text](https://media.giphy.com/media/ZyuSUCXjt3E0T6Vwb2/giphy.gif)
+<p align="center"><img src="https://media.giphy.com/media/wKnx6Tas1aSTJES3O0/giphy.gif"</p>
 
 ## O que é o Programa Nacional de Imunizações?
 O Programa Nacional de Imunizações (PNI) envolve a distribuição anual de mais de 300 milhões de doses de vacinas, soros e imunoglobulinas. Esse programa é extremamente importante, pois contribuiu, por exemplo, com a erradicação da varíola e da poliomielite, além da redução dos casos e mortes derivadas do sarampo, da rubéola, do tétano, da difteria e da coqueluche.
@@ -45,8 +45,7 @@ A cobertura vacinal é o número de doses aplicadas (correspondente ao esquema c
 ## O que é HPV?
 O papilomavírus humano, conhecido como HPV, é um vírus que se instala na pele ou em mucosas. Sua ação pode provocar infecções e o câncer de colo do útero. 
 
-![Alt Text](https://media.giphy.com/media/BXOEmFSzNkOObZhIA3/giphy.gif)
-
+<p align="center"><img src="https://media.giphy.com/media/BXOEmFSzNkOObZhIA3/giphy.gif"</p>	
 
 - Há mais de 100 diferentes tipos de HPV. Alguns tipos de HPV podem provocar câncer e outros podem causar verrugas genitais.
 - Existem 12 tipos identificados como de alto risco (HPV tipos 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58 e 59) que têm probabilidade maior de persistir e estar associados a lesões pré- cancerígenas. 
@@ -72,8 +71,7 @@ O Ministério da Saúde adotava o esquema vacinal estendido, composto por três 
 
 A vacina para o sexo masculino é importante para oferecer proteção contra as verrugas genitais, associadas à infecção pelos tipos 6 e 11 do HPV, que, além dos prejuízos estéticos e do desconforto, podem aumentar o risco de transmissão de HIV. Além disso, uma vez vacinado, o homem terá menos chances de transmitir o vírus para a mulher, ampliando a eficácia geral da vacina. No entanto, a vacina ainda é pouco difundida entre os homens.
 
-
-![Alt Text](https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif) 
+<p align="center"><img src="https://media.giphy.com/media/BY8ORoRpnJDXeBNwxg/giphy.gif"</p>
 
 <a name="obj"></a>
 # Objetivos
@@ -86,7 +84,8 @@ Além disso, como a vacinação contra HPV não está incluída nos dados de cob
 - Analisar o número de doses aplicadas por faixa etária; 
 - Calcular a cobertura vacinal para o último ano disponível e verificar como essa cobertura está distribuída nas Unidades da Federação.
 
-![Alt Text](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif)
+
+<p align="center"><img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif"</p>	
 
 <a name="met"></a>
 # Métodos
@@ -145,6 +144,8 @@ Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 
 - Pandas: para realizar a manipulação dos datasets
 
+- Numpy: para realizar de cálculos numéricos 
+
 - Matplotlib: para plotar os gráficos
 
 - Seaborn: para plotar os gráficos
@@ -197,6 +198,8 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 
 - [Matplotlib](https://matplotlib.org/)
  
+- [Numpy](https://numpy.org/)
+	
 - [Pandas](https://pandas.pydata.org/)
  
 - [Seaborn](https://seaborn.pydata.org/)
@@ -205,9 +208,14 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 # Agradecimentos
 
 Gostaria de deixar meu agradecimento aos instrutores do módulo 2: Thiago Gonçalves e Guilherme Silveira.
-Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias. 
+	
+Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideia
 
-![Alt Text](https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif)
+Também gostaria de agradecer ao Junior Torres e Carolina Dias, que sempre têm ideias inovadoras e inspiradoras 
+e me deram muitas dicas de como melhorar as visualizações gráficas.
+
+<p align="center"><img src="https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif"</p>
+
 
 
 

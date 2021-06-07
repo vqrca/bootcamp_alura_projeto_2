@@ -211,7 +211,7 @@ Gostaria de deixar meu agradecimento aos instrutores do módulo 2: Thiago Gonça
 	
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideia
 
-Também gostaria de agradecer ao Junior Torres e Carolina Dias, que sempre têm ideias inspiradoras 
+Também gostaria de agradecer ao Junior Torres e Carolina Dias, que sempre têm ideias inspiradoras, 
 e me deram muitas dicas de como melhorar as visualizações gráficas.
 
 <p align="center"><img src="https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif"</p>

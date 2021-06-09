@@ -97,8 +97,8 @@ Neste projeto os seguintes datasets foram obtidos:
 
 ### Coberturas Vacinais por Ano segundo Unidade da Federação
 Aplicando os seguintes filtros:
-- Linha: Ano
-- Coluna: Unidade da Federação
+- Linha: Unidade da Federação
+- Coluna: Ano
 - Conteúdo: Coberturas Vacinais
 - Período disponível: 1994 - 2019
 

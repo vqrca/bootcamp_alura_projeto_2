@@ -145,7 +145,7 @@ Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 - Pandas: para realizar a manipulação dos datasets
 
 - Numpy: para realizar de cálculos numéricos 
-
+	
 - Matplotlib: para plotar os gráficos
 
 - Seaborn: para plotar os gráficos
@@ -211,7 +211,7 @@ Gostaria de deixar meu agradecimento aos instrutores do módulo 2: Thiago Gonça
 	
 Ao pessoal do Scuba team e do Discord, que sempre trazem excelentes discussões e ideias.
 
-Também gostaria de agradecer ao Junior Torres e Carolina Dias, que sempre têm ideias inspiradoras, 
+Também gostaria de agradecer ao Junior Torres e à Carolina Dias, que sempre têm ideias inspiradoras, 
 e me deram muitas dicas de como melhorar as visualizações gráficas.
 
 <p align="center"><img src="https://media.giphy.com/media/M9NbzZjAcxq9jS9LZJ/giphy.gif"</p>

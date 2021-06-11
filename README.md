@@ -80,10 +80,9 @@ O projeto aqui apresentado teve por objetivo analisar a cobertura da vacinação
 Além disso, como a vacinação contra HPV não está incluída nos dados de cobertura vacinal, outros datasets foram obtidos, como os seguintes objetivos:
 
 - Verificar se houve aumento na aplicação de doses após o período que a vacina foi incluída no calendário de vacinação;
-- Comparar a aplicação de doses nos sexos feminino e masculino e verificar se houve aumento de adesão no sexo masculino ao longo dos anos;
+- Comparar a aplicação de doses nos sexos feminino e masculino e verificar se houve aumento de adesão no sexo masculino ao longo do tempo;
+- Analisar a proporcionalidade da vacinação de acordo com o número de habitantes e verificar se há consistência nessas proporções nas Unidades da Federação;
 - Analisar o número de doses aplicadas por faixa etária; 
-- Calcular a cobertura vacinal para o último ano disponível e verificar como essa cobertura está distribuída nas Unidades da Federação.
-
 
 <p align="center"><img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif"</p>	
 

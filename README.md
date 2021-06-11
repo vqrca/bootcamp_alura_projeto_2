@@ -119,7 +119,7 @@ por ano:
 - Linha: Unidade da Federação
 - Coluna: Ano
 - Conteúdo: Doses aplicadas 
-- Período disponível:  2009-20219 (feminino), 2013-2019 (masculino)
+- Período disponível:  2009-2019 (feminino), 2013-2019 (masculino)
 
 Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 
@@ -131,7 +131,7 @@ por faixa etária:
 - Linha: Unidade da Federação
 - Coluna: Faixa etária 
 - Conteúdo: Doses aplicadas 
-- Período disponível:  2009-20219 (feminino), 2013-2019 (masculino)
+- Período disponível:  2009-2019 (feminino), 2013-2019 (masculino)
 
 Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 

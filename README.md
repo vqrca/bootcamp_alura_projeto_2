@@ -254,6 +254,9 @@ Mesmo com evidências científicas de que as vacinas são seguras, alguns pais e
 Essa questão se tornou ainda mais evidente desde 2020, com o surgimento da pandemia de SARS-CoV-2, onde ocorreu uma disseminação massiva de fake news, sobre medicações e vacinação. 
 
 Entramos num momento extremamente crítico e preocupante, onde o próprio presidente do Brasil, faz propaganda contra a vacinação. 
+		
+<p align="center"><img src="https://media.giphy.com/media/2RrKN8LIzvluQXOffg/giphy.gif"</p>
+
 É necessária uma comunicação efetiva dos órgãos de saúde com a população. Não podemos permitir que doenças que foram erradicadas anos atrás retornem.
 	
 Todos precisam entender que Vacinas Salvam Vidas! 

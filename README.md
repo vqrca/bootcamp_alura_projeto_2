@@ -141,11 +141,15 @@ Os arquivos *.csv* desse datasets podem ser encontrados aqui:
 
 ## Bibliotecas utilizadas 
 
+- bs4: para extração de dados de arquivos HTML
+	
 - Pandas: para realizar a manipulação dos datasets
 
 - Numpy: para realizar de cálculos numéricos 
 	
 - Matplotlib: para plotar os gráficos
+
+- Requests: para extração de dados de arquivos HTML
 
 - Seaborn: para plotar os gráficos
 
@@ -195,13 +199,18 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 <a name="doc"></a>
 # Documentação
 
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 - [Matplotlib](https://matplotlib.org/)
  
 - [Numpy](https://numpy.org/)
-	
+ 
 - [Pandas](https://pandas.pydata.org/)
  
+- [Requests](https://docs.python-requests.org/en/master/)
+ 
 - [Seaborn](https://seaborn.pydata.org/)
+
 
 <a name="agra"></a>
 # Agradecimentos

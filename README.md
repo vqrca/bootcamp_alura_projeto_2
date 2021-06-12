@@ -6,9 +6,6 @@
   <img src="https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/cover_hpv.png" />
 </p>
 
-<h4 align="center"> 
-	🚀 Em construção...
-</h4>
 
 Tabela de conteúdo
 =================
@@ -28,9 +25,9 @@ Tabela de conteúdo
 
 Neste projeto estou aplicando os conhecimentos obtidos  nos módulos 1 e 2 do Bootcamp de Data Science Aplicada da Alura, analisando os dados do [Programa Nacional de Imunizações](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def). As análises realizadas aqui envolvem a cobertura vacinal das vacinas incluídas nos calendários de vacinação do SUS (Sistema Único de Saúde). Além disso, foi feita uma análise mais profunda em relação à vacinação contra o HPV (*Human papillomavirus* - Papilomavírus Humano).
 
-O Notebook com a análise completa e código pode ser encontrado aqui. 
+O Notebook com a análise completa e código pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Bootcamp_Projeto_2_Valquiria_Alencar.ipynb)
 
-Um PDF sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrado aqui.
+Um PDF sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Resultados_Projeto_2_Valquiria.pdf)
 
 <p align="center"><img src="https://media.giphy.com/media/wKnx6Tas1aSTJES3O0/giphy.gif"</p>
 
@@ -168,7 +165,7 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
  
   Considerando essas recomendações do Ministério da saúde, por serem áreas endêmicas, **A cobertura não é ideal no Espírito Santo e no Distrito Federal, onde as coberturas não chegam a 50%.**
 
-- No caso do **Sarampo**, é situação é preocupante no **Distrito Federal**, que teve **cobertura vacinal de 5.74%**. 
+- No caso do **Sarampo**, a situação é preocupante no **Distrito Federal**, que teve **cobertura vacinal de 5.74%**. 
  
 - **São Paulo, Ceará e Pernambuco são os Estados com maior cobertura vacinal contra o sarampo, chegando perto de 100%.**
 Na **Vacinação contra Poliomelite (4 anos)**, as **coberturas vacinais são péssimas em grande parte do País**, com **cobertura mínima de 27.98% e cobertura média de 60.37%**. Os **piores cenários são vistos em Amapá, Pará, Maranhão, Acre, Bahia e Rio Grande do Norte, onde a vacinação não chega nem a 50% de cobertura.** 
@@ -200,7 +197,7 @@ Na **Vacinação contra Poliomelite (4 anos)**, as **coberturas vacinais são p�
 - A **vacina BCG**, que previne a tuberculose, apresenta a maior cobertura vacinal, que é ótima em todas as Unidades da Federação. 
 Dados apresentados pelo [Ministério da Saúde](https://agenciabrasil.ebc.com.br/saude/noticia/2019-09/bcg-e-unica-vacina-atingir-meta-de-imunizacao-desde-2017)  mostram que a BCG **foi a única vacina a alcançar a cobertura vacinal pretendida nos anos de 2017 e 2018**. 
  
-- Em segundo lugar temos a **vacina contra poliomielite**, **porém a cobertura não chega em 100% em todos os Estados**. A maioria dos Estados da Região Norte (exceto Tocantins) não atinge os 100% de cobertura e alguns Estados do Nordeste se encontram em uma situação similar: Maranhão, Piauí, Ceará, Alagoas e Bahia.
+- Em segundo lugar temos a **vacina contra poliomielite**, **porém a cobertura não chega a 100% em todos os Estados**. A maioria dos Estados da Região Norte (exceto Tocantins) não atinge os 100% de cobertura e alguns Estados do Nordeste se encontram em uma situação similar: Maranhão, Piauí, Ceará, Alagoas e Bahia.
  
 - Enquanto isso, a vacina **Tríplice viral apresenta ótima cobertura na primeira dose, mas quando olhamos a segunda dose vemos que o cenário muda completamente**, principalmente na região Norte, onde a melhor cobertura é em Rondônia com 82.36%. No Acre, por exemplo, a cobertura cai para 54.31%.
  

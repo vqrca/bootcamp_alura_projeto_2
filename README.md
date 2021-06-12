@@ -91,7 +91,7 @@ Além disso, como a vacinação contra HPV não está incluída nos dados de cob
 
 ## Coleta dos dados:
 
-Os dados utilizados neste projeto foram obtidos do [Tabnet - DATSUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11637), um banco de dados que disponibiliza dados relacionados à saúde. Entre os dados disponibilizados, podemos encontrar  Imunizações - desde 1994, na opção Assistência à saúde. Em imunizações há dados sobre cobertura vacinal, número de doses aplicadas e taxas de abandono.
+Os dados utilizados neste projeto foram obtidos do [Tabnet - DATASUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11637), um banco de dados que disponibiliza dados relacionados à saúde. Entre os dados disponibilizados, podemos encontrar  Imunizações - desde 1994, na opção Assistência à saúde. Em imunizações há dados sobre cobertura vacinal, número de doses aplicadas e taxas de abandono.
 Neste projeto os seguintes datasets foram obtidos:
 
 ### Coberturas Vacinais por Ano segundo Unidade da Federação

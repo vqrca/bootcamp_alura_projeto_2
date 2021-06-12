@@ -157,13 +157,107 @@ O notebook *.ipynb* foi construído no google colab usando Python 3.7.10.
 
 <a name="conclusoes"></a>
 # Conclusões
+## Parte I
+- Como podemos observar, as coberturas vacinais estavam em torno de 40% no ano inicial (1994) e foram subindo gradativamente até 1999. **Entre  2000-2012 há uma estabilização e as médias das coberturas vacinais ficam próximas de 80%**. Após 2012 vemos um aumento na cobertura (com valores médios acima de 80%), porém, há uma **queda em 2016 para uma cobertura média de 52.64%**. Os valores voltam a subir tendo uma média de 72.65% em 2018. 
+ 
+- Esse tipo de informação é preocupante, pois **baixas coberturas** alcançadas para as principais vacinas do Calendário Nacional de Vacinação representam uma **ameaça real de retorno de doenças comuns no passado**, como o sarampo e a poliomielite (paralisia infantil).
+ 
+- Inclusive, **em 2018 tivemos o retorno do Sarampo**, com o registro de 10.274 casos no País. O País enfrentou dois surtos da doença: no Amazonas e em Roraima. Além disso, casos isolados foram notificados em outros Estados. E nós, claramente, tivemos esses casos de sarampo no Brasil porque não tínhamos cobertura de vacinação adequada. 
+ 
+- Em relação à **Febre Amarela**, a **cobertura vacinal só é alta na Região Norte, na Região Nordeste no Maranhão, Bahia e na Região Centro-Oeste, em todos os Estados exceto no Distrito Federal**.
+ 
+  Considerando essas recomendações do Ministério da saúde, por serem áreas endêmicas, **A cobertura não é ideal no Espírito Santo e no Distrito Federal, onde as coberturas não chegam a 50%.**
 
-....
+- No caso do **Sarampo**, é situação é preocupante no **Distrito Federal**, que teve **cobertura vacinal de 5.74%**. 
+ 
+- **São Paulo, Ceará e Pernambuco são os Estados com maior cobertura vacinal contra o sarampo, chegando perto de 100%.**
+Na **Vacinação contra Poliomelite (4 anos)**, as **coberturas vacinais são péssimas em grande parte do País**, com **cobertura mínima de 27.98% e cobertura média de 60.37%**. Os **piores cenários são vistos em Amapá, Pará, Maranhão, Acre, Bahia e Rio Grande do Norte, onde a vacinação não chega nem a 50% de cobertura.** 
+ 
+- A **Tetra Viral (SRC + VZ: contra sarampo, caxumba, rubéola e varicela) não alcançou ao menos 80% de cobertura vacinal em nenhuma das Unidades da Federação**. Os melhores valores de cobertura se concentram nas Regiões Sul e Centro-Oeste e na  Região Norte nos Estados: Rondônia, Roraima, Tocantins, Amazonas e Amapá.
+ 
+- Quando analisamos os valores de média vemos que os Imunobiológicos com maiores % de cobertura vacinal são:
+
+  BCG
+
+  Tríplice Viral D1
+
+  Poliomielite
+
+  DTP
+ 
+- Quando analisamos os valores de média vemos que os Imunobiológicos com % de Cobertura vacinal abaixo de 50% são:
+
+  Febre Amarela
+
+  Dupla adulto e tríplice acelular gestante
+
+  dTpa gestante
+
+  DTP REF (4 e 6 anos)
+
+  Haemophilus influenzae b
+ 
+- A **vacina BCG**, que previne a tuberculose, apresenta a maior cobertura vacinal, que é ótima em todas as Unidades da Federação. 
+Dados apresentados pelo [Ministério da Saúde](https://agenciabrasil.ebc.com.br/saude/noticia/2019-09/bcg-e-unica-vacina-atingir-meta-de-imunizacao-desde-2017)  mostram que a BCG **foi a única vacina a alcançar a cobertura vacinal pretendida nos anos de 2017 e 2018**. 
+ 
+- Em segundo lugar temos a **vacina contra poliomielite**, **porém a cobertura não chega em 100% em todos os Estados**. A maioria dos Estados da Região Norte (exceto Tocantins) não atinge os 100% de cobertura e alguns Estados do Nordeste se encontram em uma situação similar: Maranhão, Piauí, Ceará, Alagoas e Bahia.
+ 
+- Enquanto isso, a vacina **Tríplice viral apresenta ótima cobertura na primeira dose, mas quando olhamos a segunda dose vemos que o cenário muda completamente**, principalmente na região Norte, onde a melhor cobertura é em Rondônia com 82.36%. No Acre, por exemplo, a cobertura cai para 54.31%.
+ 
+- A queda da cobertura vacinal pode estar relacionada com a hesitação à vacinação, definida como atraso na aceitação ou recusa das vacinas recomendadas, apesar da sua disponibilidade nos serviços de saúde.Os  **principais motivos da hesitação à vacinação são falta de confiança quanto à eficácia/segurança da vacina e preocupações com eventos adversos**. 
+ 
+
+ ## Parte II
+- O **papilomavírus humano** (HPV) é **uma das infecções sexualmente transmissíveis mais frequentes no mundo**. A persistência da infecção por alguns tipos de HPV pode evoluir para o **câncer do colo do útero**, doença que registra milhares de  novos casos por ano. **Uma das principais estratégias para prevenção desse tipo de câncer é a vacinação.**
+
+- Quando analisamos a vacinação contra o HPV é possível observar que no caso da vacinação no **sexo feminino os valores mais altos de doses aplicadas se concentram no ano inicial da campanha de vacinação (2014)** e as **doses aplicadas foram caindo ao longo do tempo, apresentando uma queda abrupta em 2016**. Em 2017 houve um pequeno aumento, mas as doses voltaram novamente a cair. Enquanto isso, **no caso das doses aplicadas no sexo masculino, as doses parecem ter começado a ser aplicadas somente em 2017, porém em 2018 as doses começam a declinar**.
+ 
+- **No período de 2014 a 2016 a vacinação estava ocorrendo de fato somente sexo feminino e que a vacinação era relacionada ao tamanho crescente da população**.
+Portanto, **quanto maior o número de habitantes, maior o número de doses aplicadas,** exceto em poucos pontos que ficariam fora de uma reta, caso fosse inserida uma reta nesses gráficos. 
+ 
+- **Em 2017, vemos que a vacinação estava ocorrendo nos sexos feminino e masculino, de forma proporcional à população**, porém nos **anos seguintes vemos que começa a ocorrer uma dispersão nos pontos, indicando que a aplicação de doses começou a não estar tão relacionada.** 
+Ao analisar a proporcionalidade de doses aplicadas pela população, de cada Unidade da Federação, é possível observar que **em 2017 havia uma proporção mais homogênea.**
+ 
+- **Em 2018 há uma série de discrepâncias, principalmente no sexo feminino, onde temos mais doses sendo aplicadas em Roraima, Amazonas e Paraná. Nos dados do sexo masculino há mais doses sendo aplicadas no Paraná, Roraima, Amazonas e Maranhão.**
+ 
+- Essas **heterogeneidades na proporção** de doses aplicadas podem estar associadas a **políticas públicas estaduais distintas**, que **afetam a disponibilidade de vacinas para a população**. 
+ 
+ 
+- A análise de doses aplicadas por faixas etárias mostra que a **vacinação foi maior na faixa etária de 9 e 11 anos no sexo femino**, e que **abrangeu a faixa etária entre 9-14 anos**.
+ 
+ 
+- No caso do **sexo masculino a vacinação abrangeu a faixa etária entre 11-14 anos, porém foi maior aos 11 e 12 anos de idade.**
+ 
+ 
+- As **doses acima de 14 anos**, provavelmente, estão relacionadas ao fato da **vacina ter sido disponibilizada para as mulheres e homens até 26 anos de idade** vivendo com HIV/AIDS, transplantados de órgãos sólidos, de medula óssea e pacientes oncológicos.
+ 
+- A **discrepância entre vacinação nos sexos femino de masculino e a queda na aplicação de doses** mostra que a mídia social tem importante papel na disseminação das informações e é uma das maneiras de divulgar recomendações de saúde. Mas destaca-se que a **falta de informações e/ou as informações falsas sobre a vacina HPV ampliam a dificuldade de adesão à vacinação**.
+
+- Apesar da distribuição gratuita da vacina contra HPV, os resultados mostrados neste projeto e em estudos anteriores indicam que existe uma dificuldade na adesão nessa campanha de vacinação, principalmente no sexo masculino. **Os resultados mostram que os  gestores estaduais precisam planejar estratégias específicas para cada território e tentar de alguma forma ampliar essa vacinação.** 
+
+- A vacina mais utilizada atualmente é a quadrivalente, que hoje é recomendada para meninas e mulheres de nove a 45 anos e meninos e homens de nove a 26 anos de idade. Porém, **além das fake news, diversos fatores para baixa vacinação têm sido associados ao baixo nível educacional, baixa renda, residência em zona rural, baixo acesso à informação e aos serviços de saúde e barreiras interpostas por dogmas religiosos**.
+
+- Apesar da queda na resposta imunológica com o passar dos anos, **adultos que não foram expostos ao vírus podem se vacinar**. Por esse motivo, o **Ministério da Saúde chegou a ofertar a vacina para adultos até os 26 anos.**
+Para aqueles **acima dessa idade, é necessário se vacinar na rede privada**. Devido ao alto preço das doses na rede privada, a vacina se torna acessível apenas para uma pequena parcela da população brasileira. 
+- **Em conclusão, seria pertinente ampliar a vacinação contra HPV para adultos, já que a maior parte da população não tem acesso à rede privada.**
 
 <a name="final"></a>
 # Considerações finais
 
-...
+O que pode explicar a diminuição na cobertura vacinal nos últimos anos?
+Essa cobertura não é simplesmente um número. Sem cobertura vacinal, nós estamos suscetíveis a todas essas doenças.
+Nós sabemos que nosso país oferece diversos imunobiológicos gratuitamente no calendário nacional e que essa distribuição abrange recém-nascidos, crianças, adolescentes, adultos, idosos e povos indígenas.
+	
+Minha opinião como Bióloga e Cientista é que a circulação crescente de notícias falsas sobre vacinas, que têm ocorrido nas redes sociais e aplicativos como WhatsApp, trouxe um enorme obscurantismo, que vem assolando nossa sociedade.
+	
+Mesmo com evidências científicas de que as vacinas são seguras, alguns pais e responsáveis simplesmente optam por não levarem seus filhos para serem vacinados. 
+Essa questão se tornou ainda mais evidente desde 2020, com o surgimento da pandemia de SARS-CoV-2, onde ocorreu uma disseminação massiva de fake news, sobre medicações e vacinação. 
+
+Entramos num momento extremamente crítico e preocupante, onde o próprio presidente do Brasil, faz propaganda contra a vacinação. 
+É necessária uma comunicação efetiva dos órgãos de saúde com a população. Não podemos permitir que doenças que foram erradicadas anos atrás retornem.
+	
+Todos precisam entender que Vacinas Salvam Vidas! 
+
 
 <a name="ref"></a>
 # Referências

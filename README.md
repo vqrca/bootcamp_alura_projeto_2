@@ -259,7 +259,7 @@ Entramos num momento extremamente crítico e preocupante, onde o próprio presid
 
 É necessária uma comunicação efetiva dos órgãos de saúde com a população. Não podemos permitir que doenças que foram erradicadas anos atrás retornem.
 	
-Todos precisam entender que Vacinas Salvam Vidas! 
+**Todos precisam entender que Vacinas Salvam Vidas!** 
 
 
 <a name="ref"></a>

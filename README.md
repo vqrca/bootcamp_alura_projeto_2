@@ -73,13 +73,13 @@ A vacina para o sexo masculino é importante para oferecer proteção contra as 
 <a name="obj"></a>
 # Objetivos
 
-O projeto aqui apresentado teve por objetivo analisar a cobertura da vacinação nas Unidades da Federação por ano, no período disponibilizado pelo DATASUS (1994-2019) e verificar a cobertura dos imunos aplicados em cada uma das Unidades da Federação.
+O projeto aqui apresentado teve por objetivo analisar a cobertura da vacinação nas Unidades da Federação por ano, no período disponibilizado pelo DATASUS (1994-2019) e verificar a cobertura dos imunobiológicos aplicados em cada uma das Unidades da Federação.
 Além disso, como a vacinação contra HPV não está incluída nos dados de cobertura vacinal, outros datasets foram obtidos, como os seguintes objetivos:
 
 - Verificar se houve aumento na aplicação de doses após o período que a vacina foi incluída no calendário de vacinação;
 - Comparar a aplicação de doses nos sexos feminino e masculino e verificar se houve aumento de adesão no sexo masculino ao longo do tempo;
 - Analisar a proporcionalidade da vacinação de acordo com o número de habitantes e verificar se há consistência nessas proporções nas Unidades da Federação;
-- Analisar o número de doses aplicadas por faixa etária; 
+- Analisar o número de doses aplicadas por faixa etária
 
 <p align="center"><img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif"</p>	
 

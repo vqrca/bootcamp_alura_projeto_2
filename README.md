@@ -100,7 +100,7 @@ Aplicando os seguintes filtros:
 
 O arquivo *.csv* desse dataset pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Dados/cobertura_vacinas_1994-2021_por_ano.csv)
 
-### Coberturas Vacinais por Imuno segundo Unidade da Federação
+### Coberturas Vacinais por Imunobiológico segundo Unidade da Federação
 Aplicando os seguintes filtros:
 - Linha: Unidade da Federação
 - Coluna: Imuno

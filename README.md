@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Valquíria_Alencar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/) 
 
 <p align="center">
-  <img src="https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/cover_hpv.png" />
+  <img src="https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Images/cover_hpv.png" />
 </p>
 
 

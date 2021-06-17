@@ -28,7 +28,7 @@ Neste projeto estou aplicando os conhecimentos obtidos  nos módulos 1 e 2 do Bo
 O Notebook com a análise completa e código pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Bootcamp_Projeto_2_Valquiria_Alencar.ipynb)
 > Recomendo que seja aberto pelo colab para melhorar a visualização :wink:	
 
-Um PDF sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Resultados_Projeto_2_Valquiria.pdf)
+Um PDF sumarizando as análises, sem conter os códigos e etapas de tratamento dos dados, pode ser encontrado [aqui](https://github.com/vqrca/bootcamp_alura_projeto_2/blob/main/Results/Resultados_Projeto_2_Valquiria.pdf)
 
 <p align="center"><img src="https://media.giphy.com/media/wKnx6Tas1aSTJES3O0/giphy.gif"</p>
 
